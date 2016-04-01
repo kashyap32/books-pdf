@@ -34,7 +34,7 @@
 
 ### Assembly
 
-* [Assembly](https://www.google.com)
+* 
 
 
 ### Android
@@ -53,7 +53,7 @@
 
 ### C
 
-* 
+* [The C Programming Language - Second Edition ](http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf)
 
 
 ### C Sharp
@@ -63,7 +63,7 @@
 
 ### C++
 
-* 
+* [The C++ Programming Language ( 4th Edition ) ](http://mazonka.com/shared/Straustrup4th.pdf)
 
 
 ### coocking
@@ -109,7 +109,7 @@
 
 ### Java
 
-* 
+* [Java The Complete Reference - 9th Edition ] (http://staff.cs.psu.ac.th/iew/cs344-481/Java%20The%20Complete%20Reference%20Ninth%20Edition.pdf)
 
 ### JS
 
@@ -140,7 +140,7 @@
 
 ### Python
 
-*
+* [ Programming Python - O'Reilly - 4th Edition ] (ftp://91.193.237.1/pub/docs/linux-support/programming/Python/[O%60Reilly]%20-%20Programming%20Python,%204th%20ed.%20-%20[Lutz]/[O%60Reilly]%20-%20Programming%20Python,%204th%20ed.%20-%20[Lutz].pdf)
 
 
 ### R
