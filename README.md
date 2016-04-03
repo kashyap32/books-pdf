@@ -166,6 +166,7 @@
 
 ### Python
 
+* [ Introduction to Computer Science using Python ] (http://it-ebooks.info/book/2466/)
 * [ Core Python Programming ] (http://slav0nic.org.ua/static/books/python/OReilly%20-%20Core%20Python%20Programming.pdf)
 * [ A Python Book] (http://www.davekuhlman.org/python_book_01.pdf)
 * [ Think Python ](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
